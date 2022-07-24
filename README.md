@@ -15,6 +15,9 @@
 
 - 📫 How to reach me **satyajit1470@gmai.com**
 
+<h3 align="left">Watch snake eating my contribution</h3>
+![snake gif](https://github.com/satyajit-2003/satyajit-2003/blob/output/github-contribution-grid-snake.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/satyajit_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyajit_2003" height="30" width="40" /></a>

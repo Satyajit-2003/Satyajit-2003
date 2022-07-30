@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyajit Satapathy</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit-2003&label=Profile%20views&color=0e75b6&style=flat" alt="satyajit-2003" /> </p>
-<img align="right" alt="Coding" width="5000" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=churchill&font=Redressed">
+<img align="right" alt="Coding" width="500" src="https://github.com/Satyajit-2003/Satyajit-2003/blob/main/First-solve-the-problem.-Then-write-the-code.webp">
 
 - 🧑‍🏫 Pursuing BTech from [**Kalinga Institute Of Industrial Technology**](https://kiit.ac.in/)
 

@@ -38,4 +38,5 @@
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Satyajit-2003&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyajit-2003&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyajit-2003&show_icons=true&alt=%22Satyajit-2003%22&count_private=true&theme=tokyonight"/>
 </p>

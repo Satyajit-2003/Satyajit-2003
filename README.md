@@ -5,9 +5,9 @@
 
 - 🧑‍🏫 Pursuing BTech from [**Kalinga Institute Of Industrial Technology**](https://kiit.ac.in/)
 
-- 🌱 I’m currently learning **Data Structures and Algorithm & Object oriented programming**
+- 🌱 I’m currently learning **Data Science & Machine Learning**
 
-- 💬 Ask me about **Python, MYSQL**
+- 💬 Ask me about **Python, C, C++, DSA**
 
 - 📫 How to reach me **satyajit1470@gmai.com**
 
@@ -21,18 +21,26 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/satyajit_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyajit_2003" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/satyajit-satapathy-45598b201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyajit-satapathy-45598b201" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12460926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12460926" height="30" width="40" /></a>
-<a href="https://instagram.com/satapathy_satyajit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satapathy_atyajit" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/satyajit1470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="satapathy_atyajit" height="30" width="40" /></a>
+<a href="https://twitter.com/satyajit_2003" target="blank"><img align="center" src="https://img.icons8.com/color/48/twitter--v1.png" alt="satyajit_2003" height=40" width="40" /></a>
+<a href="https://linkedin.com/in/satyajit-satapathy-45598b201" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="satyajit-satapathy-45598b201" height=40" width="40" /></a>
+<a href="https://instagram.com/2003_satyajit" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/instagram-new.png" alt="2003_satyajit" height=40" width="40" /></a>
+<a href="https://www.hackerrank.com/satyajit1470" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/240/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo" alt="satyajit1470" height=40" width="40" /></a>
+<a href="https://leetcode.com/Satyajit_2003/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/240/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Satyajit_2003" height=40" width="40" /></a>
+<a href="https://stackoverflow.com/users/12460926" target="blank"><img align="center" src="https://img.icons8.com/color/240/stackoverflow.png" alt="12460926" height=40" width="40" /></a>
 </p>
 
 ## 🧑‍💻 Languages known to me:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-## 📈 Contribution Graph
-<img src="https://activity-graph.herokuapp.com/graph?username=Satyajit-2003&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/python--v1.png" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/c-programming.png" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/java-coffee-cup-logo--v1.png" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/html-5--v1.png" alt="HTML5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/css3.png" alt="CSS" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/linux--v1.png" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/mysql-logo.png" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/kotlin.png" alt="Kotlin" width="40" height="40"/> </a> 
+</p>
 
 ## 📊 Github Stats.
 <p align="center">

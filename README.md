@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyajit Satapathy</h1>
 <h3 align="center">A passionate developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit-2003&label=Profile%20views&color=0e75b6&style=flat" alt="satyajit-2003" /> </p>
-<img align="right" alt="Coding" width="500" src="https://github.com/Satyajit-2003/Satyajit-2003/blob/main/First-solve-the-problem.-Then-write-the-code.webp">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit-2003&label=Profile%20views&color=0e75b6&style=flat" alt="satyajit-2003" /> </p>>
 
 - 🧑‍🏫 Pursuing BTech from [**Kalinga Institute Of Industrial Technology**](https://kiit.ac.in/)
 
@@ -11,13 +10,14 @@
 
 - 📫 How to reach me **satyajit1470@gmai.com**
 
+- 📃 Checkout my portfolio : [**satyajit-2003.github.io**](https://satyajit-2003.github.io/)
+
 - ⚡ Fun fact : **Every fool can write code that computer understands, write code that humans understand**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyajit-2003" alt="satyajit-2003" /></a> </p>
 
-<h3 align="left">Watch snake eating my contribution</h3>
 
-![snake gif](https://github.com/satyajit-2003/satyajit-2003/blob/output/github-contribution-grid-snake.gif)
+![](https://github.com/satyajit-2003/satyajit-2003/blob/output/github-contribution-grid-snake.gif)
 
 ## Connect with me:
 <p align="left">
@@ -40,6 +40,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/linux--v1.png" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/mysql-logo.png" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/kotlin.png" alt="Kotlin" width="40" height="40"/> </a> 
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/javascript--v1.png" alt="javascript" width="40" height="40"/> </a>
 </p>
 
 ## 📊 Github Stats.

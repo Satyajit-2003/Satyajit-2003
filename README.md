@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyajit Satapathy</h1>
 <h3 align="center">A passionate developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit-2003&label=Profile%20views&color=0e75b6&style=flat" alt="satyajit-2003" /> </p>>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit-2003&label=Profile%20views&color=0e75b6&style=flat" alt="satyajit-2003" /> </p>
 
 - 🧑‍🏫 Pursuing BTech from [**Kalinga Institute Of Industrial Technology**](https://kiit.ac.in/)
 

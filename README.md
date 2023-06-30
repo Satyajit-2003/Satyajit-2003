@@ -8,18 +8,18 @@
 
 - 💬 Ask me about **Python, C, C++, DSA**
 
-- 📫 How to reach me **satyajit1470@gmai.com**
+- 📫 How to reach me **satyajit1470@gmail.com**
 
 - 📃 Checkout my portfolio : [**satyajit-2003.github.io**](https://satyajit-2003.github.io/)
 
 - ⚡ Fun fact : **Every fool can write code that computer understands, write code that humans understand**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyajit-2003" alt="satyajit-2003" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyajit-2003&theme=onedark" alt="satyajit-2003" /></a> </p>
 
 
 ![](https://github.com/satyajit-2003/satyajit-2003/blob/output/github-contribution-grid-snake.gif)
 
-## Connect with me:
+## 🔗 Connect with me:
 <p align="left">
 <a href="https://twitter.com/satyajit_2003" target="blank"><img align="center" src="https://img.icons8.com/color/48/twitter--v1.png" alt="satyajit_2003" height=40" width="40" /></a>
 <a href="https://linkedin.com/in/satyajit-satapathy-45598b201" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="satyajit-satapathy-45598b201" height=40" width="40" /></a>

@@ -16,6 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyajit-2003&theme=onedark" alt="satyajit-2003" /></a> </p>
 
+[![An image of @satyajit2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyajit2003)](https://holopin.io/@satyajit2003)
 
 ![](https://github.com/satyajit-2003/satyajit-2003/blob/output/github-contribution-grid-snake.gif)
 

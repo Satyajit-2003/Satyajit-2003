@@ -14,23 +14,25 @@
 
 - ⚡ Fun fact : **Every fool can write code that computer understands, write code that humans understand**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyajit-2003&theme=onedark" alt="satyajit-2003" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyajit-2003&theme=onedark&title=-Stars,-Issues,-Reviews" alt="satyajit-2003" /></a> </p>
 
-[![An image of @satyajit2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyajit2003)](https://holopin.io/@satyajit2003)
+<!-- [![An image of @satyajit2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyajit2003)](https://holopin.io/@satyajit2003) -->
 
 ![](https://github.com/satyajit-2003/satyajit-2003/blob/output/github-contribution-grid-snake.gif)
 
 ## 🔗 Connect with me:
+
 <p align="left">
-<a href="https://twitter.com/satyajit_2003" target="blank"><img align="center" src="https://img.icons8.com/color/48/twitter--v1.png" alt="satyajit_2003" height=40" width="40" /></a>
 <a href="https://linkedin.com/in/satyajit-satapathy-45598b201" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="satyajit-satapathy-45598b201" height=40" width="40" /></a>
-<a href="https://instagram.com/2003_satyajit" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/instagram-new.png" alt="2003_satyajit" height=40" width="40" /></a>
-<a href="https://www.hackerrank.com/satyajit1470" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/240/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo" alt="satyajit1470" height=40" width="40" /></a>
 <a href="https://leetcode.com/Satyajit_2003/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/240/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Satyajit_2003" height=40" width="40" /></a>
+<a href="https://twitter.com/satyajit_2003" target="blank"><img align="center" src="https://img.icons8.com/color/48/twitter--v1.png" alt="satyajit_2003" height=40" width="40" /></a>
+<a href="https://instagram.com/aka_sattu" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/instagram-new.png" alt="aka_sattu" height=40" width="40" /></a>
+<a href="https://www.hackerrank.com/satyajit1470" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/240/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo" alt="satyajit1470" height=40" width="40" /></a>
 <a href="https://stackoverflow.com/users/12460926" target="blank"><img align="center" src="https://img.icons8.com/color/240/stackoverflow.png" alt="12460926" height=40" width="40" /></a>
 </p>
 
 ## 🧑‍💻 Languages known to me:
+
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/python--v1.png" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/240/c-programming.png" alt="c" width="40" height="40"/> </a> 
@@ -45,6 +47,7 @@
 </p>
 
 ## 📊 Github Stats.
+
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Satyajit-2003&show_icons=true&theme=tokyonight" />
